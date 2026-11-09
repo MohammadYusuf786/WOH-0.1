@@ -1,0 +1,21 @@
+WORLD OF HACKER 0.1 — START HERE
+
+WINDOWS:
+1. Extract this ZIP into a folder.
+2. Install Node.js 18+ if it is not already installed.
+3. Double-click start.bat (or open a terminal here and run: npm install, then npm start).
+4. Open http://localhost:3000 in your browser.
+
+DEMO ADMIN LOGIN:
+Email:    admin@worldofhacker.in
+Password: WOHAdmin@2026
+
+New visitors can click “Join the hub” to create their own student account.
+The admin dashboard button appears after admin sign-in.
+
+IMPORTANT:
+These are demo credentials. Before putting this site on the public internet, change the admin password and SESSION_SECRET in .env, use HTTPS, and configure persistent storage. See README.md for the deployment checklist.
+
+MEDIA POSTS
+-----------
+Sign in as admin, open Admin Dashboard, then choose Posts in the sidebar. Click Create post, add a title/caption, and optionally upload a JPG/PNG/WEBP/GIF photo or MP4/WEBM video (up to 100 MB). You can also publish a text-only update. Click Publish post. It appears in the public Posts section for all visitors; open visitor pages refresh the feed automatically about every 45 seconds.
